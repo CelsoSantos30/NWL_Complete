@@ -1,0 +1,2 @@
+**Comando para rodar as Portas**
+npm run dev
